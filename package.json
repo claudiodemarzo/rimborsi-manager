@@ -1,0 +1,19 @@
+{
+  "name": "rimborsi-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudiodemarzo/rimborsi-manager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudiodemarzo/rimborsi-manager/issues"
+  },
+  "homepage": "https://github.com/claudiodemarzo/rimborsi-manager#readme"
+}
